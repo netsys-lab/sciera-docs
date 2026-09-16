@@ -333,3 +333,9 @@ We keep an archive of past SCION research meetings:
       - Hummingbird Go API
       - Juan A. Garcia-Pardo (ETH Zurich)
       -
+    * - 15.09.2026
+      - `MP4 <https://drive.google.com/file/d/1CYRi02NG0QLppSKPJxuzUoIGX5JCXTPv/view>`__
+      -
+      - SOPHIA
+      - Adrian Perrig (ETH Zurich)
+      -
