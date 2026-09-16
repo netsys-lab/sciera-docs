@@ -327,3 +327,9 @@ We keep an archive of past SCION research meetings:
       - SCION Association Updates
       - Kevin Meynell & Roman Scharkov (SCION Association)
       -
+    * - 11.09.2026
+      - `MP4 <https://drive.google.com/file/d/1pjL16hYd4x2t9rF-pSKCo0SpyFRqeru7/view>`__
+      - `PDF <https://drive.google.com/file/d/1eqv25RUn0zAAwmujnMA967gCtjlT0Ue-/view>`__
+      - Hummingbird Go API
+      - Juan A. Garcia-Pardo (ETH Zurich)
+      -
