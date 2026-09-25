@@ -26,7 +26,7 @@ Here are `further information about the GEANT Plus Link <https://network.geant.o
 Connect via Internet2 (US)
 ----------------
 
-To connect to SCIERA via Internet2, please contact `David Hausheer <mailto:hausheer@ovgu.de?subject=Connect%20to%20SCIERA%20via%20Internet2>`_..
+To connect to SCIERA via Internet2, please contact `David Hausheer <mailto:hausheer@ovgu.de?subject=Connect%20to%20SCIERA%20via%20Internet2>`_.
 
 Connect via KISTI (Asia/Global)
 ----------------
