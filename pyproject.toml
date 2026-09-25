@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "SCIERA Documentation"
-authors = [{name = "Ovgu Magdeburg, ETH Zurich", email = "marten.gartner@ovgu.de"}]
+authors = [{name = "OVGU Magdeburg, ETH Zurich", email = "hausheer@ovgu.de"}]
 dynamic = ["version", "description"]
