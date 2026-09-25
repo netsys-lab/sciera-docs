@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SCIERA'
-copyright = '2025, OVGU / ETHZ'
+copyright = '2026, OVGU / ETHZ'
 author = 'OVGU Magdeburg, ETH Zurich'
 
 release = '1.0'
@@ -38,3 +38,12 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Options for GitHub output
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "netsys-lab", # Username
+    "github_repo": "sciera-docs", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+}
