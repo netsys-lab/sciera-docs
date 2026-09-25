@@ -12,7 +12,7 @@ SCION Endhost Bootstrapping
 
 When running a SCION as via the scion-orchestrator, a bootstrap server is already included. This server is used to serve the SCION configuration to the endhosts that are part of the AS.
 
-The boostrap-server requires an IP address that is reachable by all potential SCION hosts within the AS. This is typically an IP address of the official IP range of the institution. Of course we can help setting finding this IP and setting up the server instance, please contact us in case any questions occur: marten.gartner@ovgu.de.
+The boostrap-server requires an IP address that is reachable by all potential SCION hosts within the AS. This is typically an IP address of the official IP range of the institution. Of course we can help setting finding this IP and setting up the server instance. In case any questions occur, please contact `François Wirz <mailto:wirzf@inf.ethz.ch>`_.
 
 Per default the bootstrap server of the scion-orchestrator is listening on 127.0.0.1, to configure the IP properly, check `scion orchestrator bootstrap config <https://github.com/netsys-lab/scion-orchestrator/tree/master/doc/bootstrap>`_
 
