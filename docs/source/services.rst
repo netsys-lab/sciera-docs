@@ -112,8 +112,8 @@ If your AS is not in the list, please contact us.
 
             // Define configuration mappings
             const configLinks = {
-                "uva_linux_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-uva/scion_linux_amd64.zip",
-                "uva_windows_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-uva/scion_windows_amd64.zip",
+                "uva_linux_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-uva/71-225_linux_amd64.zip",
+                "uva_windows_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-uva/71-225_windows_amd64.zip",
                 "ovgu_linux_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-ovgu/scion_linux_amd64.zip",
                 "ovgu_windows_amd64": "https://github.com/netsys-lab/scion-orchestrator-releases/releases/download/v0.0.1-ovgu/scion_windows_amd64.zip"
             };
