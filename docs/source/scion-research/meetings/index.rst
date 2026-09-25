@@ -16,7 +16,7 @@ Please check out our `meeting calendar <https://calendar.google.com/calendar/u/0
 
 You may also take a look at our `past meetings <past.html>`_.
 
-To receive meeting announcements, please subscribe to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
+To receive meeting announcements, please **subscribe** to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
 
 The SCION research meetings are open for anyone interested in discussing research topics related to SCION, including but not limited to:
 
@@ -32,13 +32,9 @@ The SCION research meetings are open for anyone interested in discussing researc
 - Next-generation routing architecture policy definitions
 - Secure communication in specific domains, e.g., cloud, IoT
 
-If you are interested to present your SCION research work during one of the upcoming meetings, please submit your talk proposal to: https://sessionize.com/scion-research
-
-Talk proposals will be reviewed by a review committee.
-
 Talks usually last 10-15 minutes, leaving 15-20 minutes for discussion.
 
-For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@ovgu.de,juan.garcia@inf.ethz.ch?subject=SCION%20Research%20Meeting>`_:
+If you are **interested to present your SCION research work** during one of the upcoming meetings or if you have any questions or comments, please do not hesitate to `contact us <mailto:aperrig@inf.ethz.ch,hausheer@ovgu.de,juan.garcia@inf.ethz.ch?subject=SCION%20Research%20Meeting>`_:
 
 - Adrian Perrig, ETH Zurich, Switzerland
 - David Hausheer, OVGU Magdeburg, Germany
