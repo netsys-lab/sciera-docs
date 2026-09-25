@@ -3,9 +3,9 @@ Join SCIERA
 
 To join the SCIERA infrastructure, there are several possibilities depending on your location:
 
-Connect to GEANT (EU)
+Connect via GEANT (EU)
 ----------------
-You can connect to the network via setting up a `GEANT plus link <https://www.geant3.archive.geant.org/pages/Services/GEANTPlus.html>`_, i.e. using one or more dedicated VLANs, to our Points-of-Presence (PoP). 
+You can connect to SCIERA via setting up a `GEANT plus link <https://www.geant3.archive.geant.org/pages/Services/GEANTPlus.html>`_, i.e. using one or more dedicated VLANs, to our Points-of-Presence (PoP). 
 
 We currently have 3 productive SCION PoPs:
 
@@ -19,18 +19,18 @@ You should be able to select them in the GEANT service portal when you request a
 
 .. image:: images/GEANT_SCION_PoP.png
   :width: 1920
-  :alt: Connect to GEANT
+  :alt: Connect via GEANT
 
 Here are `further information about the GEANT Plus Link <https://network.geant.org/wp-content/uploads/2021/11/GEANT-Plus-Service-Description-October-2021.pdf/>`_
 
-Connect to BRIDGES (US)
+Connect via Internet2 (US)
 ----------------
 
-To connect to the network over BRIDGES, please contact us for further information (marten.gartner@ovgu.de).
+To connect to SCIERA via Internet2, please contact `David Hausheer <mailto:hausheer@ovgu.de?subject=Connect%20to%20SCIERA%20via%20Internet2>`_..
 
-Connect to KISTI (ASIA/Global)
+Connect via KISTI (Asia/Global)
 ----------------
-Also a connection over KISTI is possible. Please contact us for further information (marten.gartner@ovgu.de).
+Also a connection via KISTI is possible. For further information please contact `Jonghoon Kwon <mailto:hausheer@ovgu.de?subject=Connect%20to%20SCIERA%20via%20KISTI>`_.
 
 
 Install SCION
