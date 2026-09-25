@@ -30,7 +30,7 @@ To connect to SCIERA via Internet2, please contact `David Hausheer <mailto:haush
 
 Connect via KISTI (Asia/Global)
 ----------------
-Also a connection via KISTI is possible. For further information please contact `Jonghoon Kwon <mailto:hausheer@ovgu.de?subject=Connect%20to%20SCIERA%20via%20KISTI>`_.
+Also a connection via KISTI is possible. For further information please contact `Jonghoon Kwon <mailto:jong.kwon@inf.ethz.ch?subject=Connect%20to%20SCIERA%20via%20KISTI>`_.
 
 
 Install SCION
