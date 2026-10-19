@@ -351,3 +351,9 @@ We keep an archive of past SCION research meetings:
       - Quantum-proofing SCION
       - Marco Pioppini (ETH Zurich)
       -
+    * - 9.10.2026
+      - `MP4 <https://drive.google.com/file/d/1oKsZuhY5GyDOk90ExAtz0-yewLphxA16/view>`__
+      -
+      - Improving SCION MP-QUIC with Bandwidth Reservations
+      - Mario San-Bento Furtado (ETH Zurich)
+      -
