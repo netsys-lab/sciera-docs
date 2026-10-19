@@ -357,3 +357,9 @@ We keep an archive of past SCION research meetings:
       - Improving SCION MP-QUIC with Bandwidth Reservations
       - Mario San-Bento Furtado (ETH Zurich)
       -
+    * - 13.10.2026
+      - `MP4 <https://drive.google.com/file/d/1SYIA1BSMfdS7Rq7q9rPtA1wiy273Lye9/view>`__
+      - `PDF <https://drive.google.com/file/d/1Ek8ZgvFLJV-yVP8nfY7FSmE0TT2nLUrx/view>`__
+      - OMIA Key Agreement with Multipath SCION
+      - Yi-Min Lin (ETH Zurich)
+      -
