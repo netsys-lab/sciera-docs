@@ -353,7 +353,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 9.10.2026
       - `MP4 <https://drive.google.com/file/d/1oKsZuhY5GyDOk90ExAtz0-yewLphxA16/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1DLKPEvKwko5sa1cEAraKKQk2fiLZiYzX/view>`__
       - Improving SCION MP-QUIC with Bandwidth Reservations
       - Mario San-Bento Furtado (ETH Zurich)
       -
