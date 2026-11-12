@@ -363,3 +363,9 @@ We keep an archive of past SCION research meetings:
       - OMIA Key Agreement with Multipath SCION
       - Yi-Min Lin (ETH Zurich)
       -
+    * - 10.11.2026
+      - `PDF <https://drive.google.com/file/d/1iJHlTyXibetXK6Knuhj3VautcJtWyS4p/view>`__
+      - `MP4 <https://drive.google.com/file/d/1YizMt6WgH_auJfQeRuYZ0Q10inBEeD29/view>`__
+      - Debuglet in action: programmable network experiments for the research community
+      - Theodor Mattli (University of Zurich)
+      -
