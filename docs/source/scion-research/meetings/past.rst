@@ -370,7 +370,7 @@ We keep an archive of past SCION research meetings:
       - Theodor Mattli (University of Zurich)
       -
     * - 20.11.2026
-      -
+      - `PDF <https://drive.google.com/file/d/1S8Sst1UYRL1iIKhSDZjcAUCwHWmJO0Ll/view>`__
       - `MP4 <https://drive.google.com/file/d/1bsdbcb6I48694Bbn2YfDbZHlH6n3dpc8/view>`__
       - Scitra-TUN Gateway
       - Lars Christian Schulz (OVGU Magdeburg)
