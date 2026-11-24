@@ -369,3 +369,9 @@ We keep an archive of past SCION research meetings:
       - Debuglet in action: programmable network experiments for the research community
       - Theodor Mattli (University of Zurich)
       -
+    * - 20.11.2026
+      -
+      - `MP4 <https://drive.google.com/file/d/1bsdbcb6I48694Bbn2YfDbZHlH6n3dpc8/view>`__
+      - Scitra-TUN Gateway
+      - Lars Christian Schulz (OVGU Magdeburg)
+      - `more information <https://scitra.io>`__
